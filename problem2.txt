@@ -1,0 +1,6 @@
+#Flutter uses Dart because:
+1. Dart makes it easy for developers to read and visualize it very quickly and effortlessly.
+2.Dart,if required,uses the Just In Time(JIT) compilation which reduces time of development.
+3.Dart makes use of Ahead Of Time(AOT); AOT compiles flutter dart code smoothly into native.
+4.In Dart, there is not not needed any seperate layout language like JSX or XML.
+5.Dart supports asynchronous prograaming.

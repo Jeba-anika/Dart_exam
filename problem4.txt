@@ -1,0 +1,8 @@
+#Core concept of OOP:
+1.Class
+2.Inheritance
+3.Object
+4.Polymorphism
+5.Encapsulation
+6.Data abstraction
+7.Interfaces
